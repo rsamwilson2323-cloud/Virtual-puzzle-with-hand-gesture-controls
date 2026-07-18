@@ -1,0 +1,5 @@
+opencv-python
+cvzone
+mediapipe
+numpy
+Pillow
